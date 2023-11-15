@@ -105,10 +105,10 @@ python manage.py createsuperuser
 
 ## Rodando a API Produtos utilizando o framework FastAPI
 
-Acessar o diretório fastapi-produtos
+Acessar o diretório api-produtos
 
 ```
-cd /referencial/src/fastapi-produtos
+cd /referencial/src/api-produtos
 ```
 
 Para instalar os pacotes necessários para rodar o servidor FastAPI
